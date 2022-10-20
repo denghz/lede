@@ -10,5 +10,5 @@ src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small-package # passwall 基本依赖
 src-git sirpdboy https://github.com/sirpdboy/sirpdboy-package
 #git clone https://github.com/destan19/OpenAppFilter package/OpenAppFilter
-
+git clone https://github.com/ZeaKyX/luci-app-speedtest-web.git package/speedtest-web
 
